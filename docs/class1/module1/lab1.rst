@@ -371,7 +371,7 @@ the BIG-IP's public IP address to which you will connect.
    .. image:: /_static/image8.png
       :scale: 50 %
 
-#. License your F5 BIG-IP by typing ``SOAPLicenseClient --basekey <license>``
+#. Type ``bash`` and press the Enter key to obtain a Bash prompt, then license your F5 BIG-IP by typing ``SOAPLicenseClient --basekey <license>``
 
    Example:
 
