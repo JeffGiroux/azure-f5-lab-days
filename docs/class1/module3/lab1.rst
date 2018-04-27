@@ -18,7 +18,7 @@ to review the README.md.
 
 For this lab, we will be using a template from the following location:
 
-https://github.com/F5Networks/f5-azure-arm-templates/tree/master/supported/cluster/1nic/new_stack
+https://github.com/F5Networks/f5-azure-arm-templates/tree/master/supported/cluster/failover-lb/1nic/new_stack
 
 It's recommended to review the README.md on this page as well to become
 familiar with the template, prerequisites, topology, and more.
@@ -42,7 +42,7 @@ going to the Azure Portal.
 
 #. Keep the browser window open
 #. Open a new browser and go to
-   https://github.com/F5Networks/f5-azure-arm-templates/tree/master/supported/cluster/1nic/new_stack
+   https://github.com/F5Networks/f5-azure-arm-templates/tree/master/supported/cluster/failover-lb/1nic/new_stack
 #. Scroll down to the README.md section and click **Installation**
 
    .. image:: /_static/lab3-image002.png
