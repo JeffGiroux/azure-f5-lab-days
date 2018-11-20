@@ -226,7 +226,7 @@ this task you will go to the Azure Marketplace and enable **the F5 WAF Solution 
    If you have already performed this step in your Azure account,
    then you can skip this task and move to the next task.
 
-#. Open a browser and go to https://azuremarketplace.microsoft.com/en-us/marketplace/apps/f5-networks.f5-web-application-firewall 
+#. Open a browser and go to https://azuremarketplace.microsoft.com/en-us/marketplace/apps/f5-networks.f5-waf-solutions 
 
    .. image:: /_static/image64.png
       :scale: 50 %
